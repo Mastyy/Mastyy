@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://i.ibb.co/GthLVkT/MENU-GOTHIC.png"  />
+</div>
 
-<!--
-**Mastyy/Mastyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">Game designer and programmer for Gothic II - Eternal</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <a href="https://www.patreon.com/HiverEnglish" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
+  </a>
+  <a href="https://discord.gg/MedZvgC" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Pre-alpha (0.1a) version of Eternal will release latest week of October 2024</p>
+
+###
