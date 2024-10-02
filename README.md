@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.patreon.com/HiverEnglish" target="_blank">
+  <a href="https://www.patreon.com/GothicEternal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
   </a>
   <a href="https://discord.gg/MedZvgC" target="_blank">
