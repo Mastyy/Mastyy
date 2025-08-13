@@ -19,6 +19,6 @@
 
 ###
 
-<p align="left">Pre-alpha (0.1a) version of Eternal will release latest week of October 2024</p>
+<p align="left">Pre-alpha (0.3a) version of Eternal currently out for closed beta testing</p>
 
 ###
